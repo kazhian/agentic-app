@@ -3,5 +3,6 @@ pydantic
 langgraph
 langchain-core
 langchain-openai
+langchain-community
 dotenv
 ipython
